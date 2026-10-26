@@ -238,6 +238,7 @@ Turning pipeline into revenue through craft, not CRM busywork.
 | 🏋️ [Sales Coach](sales/sales-coach.md) | Rep development, call coaching, pipeline review facilitation | Making every rep and every deal better through structured coaching |
 | 🎯 [Sales Outreach](specialized/sales-outreach.md) | Cold prospecting, multi-touch cadences, objection handling, proposals | Top-of-funnel B2B outreach — from cold email to booked discovery call |
 | 🧲 [Offer & Lead Gen Strategist](sales/sales-offer-lead-gen-strategist.md) | Offers & lead magnets | Top-of-funnel offer construction and lead gen |
+| 💼 [Harvey Operator](sales/sales-harvey-operator.md) | Installing and running the open-source Harvey cold-email agent | Running autonomous prospecting and outreach on your Claude Code subscription, with a human reviewing the outbox |
 
 ### 📢 Marketing Division
 
